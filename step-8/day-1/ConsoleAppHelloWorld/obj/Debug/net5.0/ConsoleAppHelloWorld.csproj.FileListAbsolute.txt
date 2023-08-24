@@ -1,0 +1,16 @@
+C:\Users\icgili\Documents\ctrl+future\elev8\step-8\assignment-1\ConsoleAppHelloWorld\bin\Debug\net5.0\ConsoleAppHelloWorld.exe
+C:\Users\icgili\Documents\ctrl+future\elev8\step-8\assignment-1\ConsoleAppHelloWorld\bin\Debug\net5.0\ConsoleAppHelloWorld.deps.json
+C:\Users\icgili\Documents\ctrl+future\elev8\step-8\assignment-1\ConsoleAppHelloWorld\bin\Debug\net5.0\ConsoleAppHelloWorld.runtimeconfig.json
+C:\Users\icgili\Documents\ctrl+future\elev8\step-8\assignment-1\ConsoleAppHelloWorld\bin\Debug\net5.0\ConsoleAppHelloWorld.runtimeconfig.dev.json
+C:\Users\icgili\Documents\ctrl+future\elev8\step-8\assignment-1\ConsoleAppHelloWorld\bin\Debug\net5.0\ConsoleAppHelloWorld.dll
+C:\Users\icgili\Documents\ctrl+future\elev8\step-8\assignment-1\ConsoleAppHelloWorld\bin\Debug\net5.0\ref\ConsoleAppHelloWorld.dll
+C:\Users\icgili\Documents\ctrl+future\elev8\step-8\assignment-1\ConsoleAppHelloWorld\bin\Debug\net5.0\ConsoleAppHelloWorld.pdb
+C:\Users\icgili\Documents\ctrl+future\elev8\step-8\assignment-1\ConsoleAppHelloWorld\obj\Debug\net5.0\ConsoleAppHelloWorld.csproj.AssemblyReference.cache
+C:\Users\icgili\Documents\ctrl+future\elev8\step-8\assignment-1\ConsoleAppHelloWorld\obj\Debug\net5.0\ConsoleAppHelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icgili\Documents\ctrl+future\elev8\step-8\assignment-1\ConsoleAppHelloWorld\obj\Debug\net5.0\ConsoleAppHelloWorld.AssemblyInfoInputs.cache
+C:\Users\icgili\Documents\ctrl+future\elev8\step-8\assignment-1\ConsoleAppHelloWorld\obj\Debug\net5.0\ConsoleAppHelloWorld.AssemblyInfo.cs
+C:\Users\icgili\Documents\ctrl+future\elev8\step-8\assignment-1\ConsoleAppHelloWorld\obj\Debug\net5.0\ConsoleAppHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\icgili\Documents\ctrl+future\elev8\step-8\assignment-1\ConsoleAppHelloWorld\obj\Debug\net5.0\ConsoleAppHelloWorld.dll
+C:\Users\icgili\Documents\ctrl+future\elev8\step-8\assignment-1\ConsoleAppHelloWorld\obj\Debug\net5.0\ref\ConsoleAppHelloWorld.dll
+C:\Users\icgili\Documents\ctrl+future\elev8\step-8\assignment-1\ConsoleAppHelloWorld\obj\Debug\net5.0\ConsoleAppHelloWorld.pdb
+C:\Users\icgili\Documents\ctrl+future\elev8\step-8\assignment-1\ConsoleAppHelloWorld\obj\Debug\net5.0\ConsoleAppHelloWorld.genruntimeconfig.cache

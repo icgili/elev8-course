@@ -1,0 +1,7 @@
+C:\Users\icgili\Documents\ctrl+future\elev8\step-8\assignment-1\ClassesApp\bin\Debug\ClassesApp.exe.config
+C:\Users\icgili\Documents\ctrl+future\elev8\step-8\assignment-1\ClassesApp\bin\Debug\ClassesApp.exe
+C:\Users\icgili\Documents\ctrl+future\elev8\step-8\assignment-1\ClassesApp\bin\Debug\ClassesApp.pdb
+C:\Users\icgili\Documents\ctrl+future\elev8\step-8\assignment-1\ClassesApp\obj\Debug\ClassesApp.csproj.AssemblyReference.cache
+C:\Users\icgili\Documents\ctrl+future\elev8\step-8\assignment-1\ClassesApp\obj\Debug\ClassesApp.csproj.CoreCompileInputs.cache
+C:\Users\icgili\Documents\ctrl+future\elev8\step-8\assignment-1\ClassesApp\obj\Debug\ClassesApp.exe
+C:\Users\icgili\Documents\ctrl+future\elev8\step-8\assignment-1\ClassesApp\obj\Debug\ClassesApp.pdb
