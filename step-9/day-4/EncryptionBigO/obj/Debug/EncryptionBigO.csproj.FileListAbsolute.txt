@@ -1,0 +1,7 @@
+C:\Users\icgili\Documents\ctrl+future\elev8-course\step-9\day-4\EncryptionBigO\bin\Debug\EncryptionBigO.exe.config
+C:\Users\icgili\Documents\ctrl+future\elev8-course\step-9\day-4\EncryptionBigO\bin\Debug\EncryptionBigO.exe
+C:\Users\icgili\Documents\ctrl+future\elev8-course\step-9\day-4\EncryptionBigO\bin\Debug\EncryptionBigO.pdb
+C:\Users\icgili\Documents\ctrl+future\elev8-course\step-9\day-4\EncryptionBigO\obj\Debug\EncryptionBigO.csproj.AssemblyReference.cache
+C:\Users\icgili\Documents\ctrl+future\elev8-course\step-9\day-4\EncryptionBigO\obj\Debug\EncryptionBigO.csproj.CoreCompileInputs.cache
+C:\Users\icgili\Documents\ctrl+future\elev8-course\step-9\day-4\EncryptionBigO\obj\Debug\EncryptionBigO.exe
+C:\Users\icgili\Documents\ctrl+future\elev8-course\step-9\day-4\EncryptionBigO\obj\Debug\EncryptionBigO.pdb

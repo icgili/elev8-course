@@ -1,0 +1,10 @@
+C:\Users\icgili\Documents\ctrl+future\elev8-course\step-9\day-4\DataStructureApp\bin\Debug\DataStructureApp.exe.config
+C:\Users\icgili\Documents\ctrl+future\elev8-course\step-9\day-4\DataStructureApp\bin\Debug\DataStructureApp.exe
+C:\Users\icgili\Documents\ctrl+future\elev8-course\step-9\day-4\DataStructureApp\bin\Debug\DataStructureApp.pdb
+C:\Users\icgili\Documents\ctrl+future\elev8-course\step-9\day-4\DataStructureApp\obj\Debug\DataStructureApp.csproj.AssemblyReference.cache
+C:\Users\icgili\Documents\ctrl+future\elev8-course\step-9\day-4\DataStructureApp\obj\Debug\DataStructureApp.Form1.resources
+C:\Users\icgili\Documents\ctrl+future\elev8-course\step-9\day-4\DataStructureApp\obj\Debug\DataStructureApp.Properties.Resources.resources
+C:\Users\icgili\Documents\ctrl+future\elev8-course\step-9\day-4\DataStructureApp\obj\Debug\DataStructureApp.csproj.GenerateResource.cache
+C:\Users\icgili\Documents\ctrl+future\elev8-course\step-9\day-4\DataStructureApp\obj\Debug\DataStructureApp.csproj.CoreCompileInputs.cache
+C:\Users\icgili\Documents\ctrl+future\elev8-course\step-9\day-4\DataStructureApp\obj\Debug\DataStructureApp.exe
+C:\Users\icgili\Documents\ctrl+future\elev8-course\step-9\day-4\DataStructureApp\obj\Debug\DataStructureApp.pdb

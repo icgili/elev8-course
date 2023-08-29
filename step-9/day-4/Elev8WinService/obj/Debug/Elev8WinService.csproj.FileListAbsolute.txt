@@ -1,0 +1,9 @@
+C:\Users\icgili\Documents\ctrl+future\elev8-course\step-9\day-4\Elev8WinService\obj\Debug\Elev8WinService.Elev8Service.resources
+C:\Users\icgili\Documents\ctrl+future\elev8-course\step-9\day-4\Elev8WinService\obj\Debug\Elev8WinService.ProjectInstaller.resources
+C:\Users\icgili\Documents\ctrl+future\elev8-course\step-9\day-4\Elev8WinService\obj\Debug\Elev8WinService.csproj.GenerateResource.cache
+C:\Users\icgili\Documents\ctrl+future\elev8-course\step-9\day-4\Elev8WinService\obj\Debug\Elev8WinService.csproj.CoreCompileInputs.cache
+C:\Users\icgili\Documents\ctrl+future\elev8-course\step-9\day-4\Elev8WinService\bin\Debug\Elev8WinService.exe.config
+C:\Users\icgili\Documents\ctrl+future\elev8-course\step-9\day-4\Elev8WinService\bin\Debug\Elev8WinService.exe
+C:\Users\icgili\Documents\ctrl+future\elev8-course\step-9\day-4\Elev8WinService\bin\Debug\Elev8WinService.pdb
+C:\Users\icgili\Documents\ctrl+future\elev8-course\step-9\day-4\Elev8WinService\obj\Debug\Elev8WinService.exe
+C:\Users\icgili\Documents\ctrl+future\elev8-course\step-9\day-4\Elev8WinService\obj\Debug\Elev8WinService.pdb

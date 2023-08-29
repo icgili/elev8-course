@@ -1,0 +1,10 @@
+C:\Users\icgili\Documents\ctrl+future\elev8-course\step-9\day-5\PictureEditor\bin\Debug\PictureEditor.exe.config
+C:\Users\icgili\Documents\ctrl+future\elev8-course\step-9\day-5\PictureEditor\bin\Debug\PictureEditor.exe
+C:\Users\icgili\Documents\ctrl+future\elev8-course\step-9\day-5\PictureEditor\bin\Debug\PictureEditor.pdb
+C:\Users\icgili\Documents\ctrl+future\elev8-course\step-9\day-5\PictureEditor\obj\Debug\PictureEditor.csproj.AssemblyReference.cache
+C:\Users\icgili\Documents\ctrl+future\elev8-course\step-9\day-5\PictureEditor\obj\Debug\PictureEditor.Form1.resources
+C:\Users\icgili\Documents\ctrl+future\elev8-course\step-9\day-5\PictureEditor\obj\Debug\PictureEditor.Properties.Resources.resources
+C:\Users\icgili\Documents\ctrl+future\elev8-course\step-9\day-5\PictureEditor\obj\Debug\PictureEditor.csproj.GenerateResource.cache
+C:\Users\icgili\Documents\ctrl+future\elev8-course\step-9\day-5\PictureEditor\obj\Debug\PictureEditor.csproj.CoreCompileInputs.cache
+C:\Users\icgili\Documents\ctrl+future\elev8-course\step-9\day-5\PictureEditor\obj\Debug\PictureEditor.exe
+C:\Users\icgili\Documents\ctrl+future\elev8-course\step-9\day-5\PictureEditor\obj\Debug\PictureEditor.pdb
