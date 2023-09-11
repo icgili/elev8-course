@@ -1,0 +1,81 @@
+﻿@page "{pageNumber:int?}/{pageSize:int?}"
+@model IndexModel
+@{
+    ViewData["Title"] = "List of Organizations";
+}
+
+<div class="container">
+    <div class="jumbotron text-center">
+        <h1 class="display-4">@ViewData["Title"]</h1>
+        <p class="lead">You can explore organizations's informations.</p>
+    </div>
+
+    <table class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Country</th>
+                <th>Description</th>
+                <th>Founded In</th>
+                <th>Industry</th>
+                <th>Number Of Employees</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var organization in Model.Organizations)
+            {
+            <tr>
+                <td>@organization.Index</td>
+                <td>@organization.Name</td>
+                <td>@organization.Country</td>
+                <td>@organization.Description</td>
+                <td>@organization.Founded</td>
+                <td>@organization.Industry</td>
+                <td>@organization.NumberOfEmployees</td>
+            </tr>
+            }
+        </tbody>
+    </table>
+
+    <div class="pagination myPagination">
+        <span class="total-pages">Total Pages: @Model.TotalPages</span>
+        <div class="page-input-div">
+            <input type="number" class="form-control page-input" min="1" max="@Model.TotalPages" value="@Model.PageNumber" />
+            <button class="btn btn-primary page-go-btn" onclick="navigateToPage()">Go</button>
+        </div>
+        <div>
+            <a class="btn btn-outline-danger @(Model.HasPreviousPage ? "" : "disabled")" href="/@(Model.PageNumber - 1)/@(Model.PageSize)"><</a>
+            <a class="btn btn-outline-danger @(Model.HasNextPage ? "" : "disabled")" href="/@(Model.PageNumber + 1)/@(Model.PageSize)">></a>
+        </div>
+    </div>
+</div>
+<script>
+    function navigateToPage() {
+        var pageInput = document.querySelector(".page-input-div input");
+        var pageNumber = parseInt(pageInput.value);
+        var pageSize = @Model.PageSize;
+        window.location.href = `/${pageNumber}/${pageSize}`;
+    }
+</script>
+<style>
+    .myPagination
+    {
+        display: flex;
+        justify-content:space-between;
+        width: 100%;
+        align-items:center;
+    }
+    .page-input-div
+    {
+        display: flex;
+    }
+    .page-input {
+        border-top-right-radius: 0 !important;
+        border-bottom-right-radius: 0 !important;
+    }
+    .page-go-btn {
+        border-top-left-radius: 0 !important;
+        border-bottom-left-radius: 0 !important;
+    }
+</style>
